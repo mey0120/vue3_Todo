@@ -58,8 +58,6 @@ export default {
 </script>
 
 <style scoped>
-@import "./css/main.css";
-
 .wrap {
   display: flex;
   justify-content: center;
@@ -184,7 +182,7 @@ export default {
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
-  background: url(./assets/outline_delete_white_24dp.png);
+  background: url(../assets/outline_delete_white_24dp.png);
   margin-bottom: 3px;
 }
 

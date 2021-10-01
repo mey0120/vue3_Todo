@@ -153,6 +153,6 @@ textarea,
 button {
   font-size: 12px;
   line-height: 1.5;
-  font-family: "Noto Sans KR", Malgun Gothic, "맑은 고딕", AppleGothic, Dotum, "돋움", sans-serif;
+  font-family: 'Josefin Sans', sans-serif, 'Roboto', sans-serif;
   color: #333;
 }
